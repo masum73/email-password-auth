@@ -74,11 +74,11 @@ const Register = () => {
 
 
     const handleEmailChange = (event) => {
-        //console.log(event.target.value);
+        console.log(event.target.value);
         //setEmail(event.target.value);
     }
     const handlePasswordBlur = (event) => {
-        //console.log(event.target.value);
+        console.log(event.target.value);
         //setPassword(event.target.value)
     }
     return (
